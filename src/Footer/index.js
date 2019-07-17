@@ -50,7 +50,7 @@ const Footer = () => (
 			<Avatars />
 		</Wrapper>
 		<Warning>
-			Esse tweet foi gerado com o <i>Gerador de Tweet do Bolsonaro</i>, e não é necessariamente verdadeiro
+			Esse tweet foi gerado com o <i>Gerador de Tweet do Bolsonaro</i>, mas não é necessariamente falso
 		</Warning>
 	</div>
 );
